@@ -1,2 +1,5 @@
 # Ignore build outputs
 /grounding-rs/target/
+
+/grounding-dart/.dart_tool/
+/grounding-dart/build/
